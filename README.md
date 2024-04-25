@@ -1,7 +1,7 @@
 # Automate AWS EC2 with Python | DevOps Coding Challenge
 
 ## Overview
-git commit -m "first commit" The goal is to create a script that checks EC2 instances every hour and starts any stopped instances. This README provides a step-by-step guide to set up and deploy the automation solution.
+The goal is to create a script that checks EC2 instances every hour and starts any stopped instances. This README provides a step-by-step guide to set up and deploy the automation solution.
 
 ##Diagram
 Automate AWS EC2 with Python/Diagram.png
